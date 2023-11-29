@@ -314,5 +314,13 @@ Der Traum vom Weltall: Elli hört eine Geschichte von seinem Großvater über da
 
 # Weitere Resourcen
 
+Dieses Dokument ist nur ein kleiner Auszug aus einigen Methoden im Prompting:
+* Zero-Shot, Few-Shot Prompting --> Wurden hier behandelt
+* Chain-of-Thought (CoT), Tree-of-Thoughts (ToT) --> Wurden hier nicht behandelt
+* Retrieval Augmented Generation (RAG) --> Wurden hier nicht behandelt
+* ReAct (Reason and Act) --> Wurden hier nicht behandelt
+* Automatic Prompt Engineer (APE) --> Wurden hier nicht behandelt
+
+Quellen:
 [Wie schreibe ich den perfekten Prompt?](https://outrageous-drawbridge-12e.notion.site/Wie-schreibe-ich-den-perfekten-Prompt-9e33917cd43549fd83d332abc41e5240)
 [Prompt-Bibliothek F3](https://outrageous-drawbridge-12e.notion.site/d16aa981eca442e7be4b82042373785d?v=40a3faa7f91a44c6877348fc5b597846)
