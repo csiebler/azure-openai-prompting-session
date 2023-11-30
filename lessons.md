@@ -20,9 +20,11 @@ Beim Schreiben von Prompts, sind folgende Punkte wichtig:
 
 **Prompt:**
 
-> Verbessere folgenden Text:
-> 
-> Das Universum ist so groß, dass wir nur einen winzigen Teil davon erforschen können. Es gibt schätzungsweise mehr als 100 Milliarden Galaxien, die jeweils Milliarden von Sternen und Planeten enthalten. Das Universum ist auch sehr alt, etwa 13,8 Milliarden Jahre. Es entstand aus einem extrem heißen und dichten Zustand, den wir den Urknall nennen. Das Universum ist voller mysteriöser Phänomene, wie schwarze Löcher, dunkle Materie und dunkle Energie. Diese beeinflussen die Struktur und die Entwicklung des Universums, aber wir wissen noch nicht genau, was sie sind oder wie sie funktionieren. Das Universum ist auch voller Schönheit und Wunder, wie die farbenfrohen Nebel, die aus Gas und Staub bestehen, die leuchtenden Sterne, die aus Wasserstoff und Helium bestehen, und die erstaunlichen Planeten, die aus verschiedenen Elementen und Verbindungen bestehen. Das Universum ist schließlich voller Fragen und Möglichkeiten, wie die Suche nach außerirdischem Leben, die Erforschung anderer Welten und die Erkenntnis unserer eigenen Herkunft und Bestimmung.
+``` 
+Verbessere folgenden Text:
+ 
+Das Universum ist so groß, dass wir nur einen winzigen Teil davon erforschen können. Es gibt schätzungsweise mehr als 100 Milliarden Galaxien, die jeweils Milliarden von Sternen und Planeten enthalten. Das Universum ist auch sehr alt, etwa 13,8 Milliarden Jahre. Es entstand aus einem extrem heißen und dichten Zustand, den wir den Urknall nennen. Das Universum ist voller mysteriöser Phänomene, wie schwarze Löcher, dunkle Materie und dunkle Energie. Diese beeinflussen die Struktur und die Entwicklung des Universums, aber wir wissen noch nicht genau, was sie sind oder wie sie funktionieren. Das Universum ist auch voller Schönheit und Wunder, wie die farbenfrohen Nebel, die aus Gas und Staub bestehen, die leuchtenden Sterne, die aus Wasserstoff und Helium bestehen, und die erstaunlichen Planeten, die aus verschiedenen Elementen und Verbindungen bestehen. Das Universum ist schließlich voller Fragen und Möglichkeiten, wie die Suche nach außerirdischem Leben, die Erforschung anderer Welten und die Erkenntnis unserer eigenen Herkunft und Bestimmung.
+```
 
 **Ergebnis:**
 
@@ -41,7 +43,9 @@ Weiterführung vom vorherigen Beispiel:
 
 **Prompt:**
 
-> Mache den Text noch flüssiger
+```
+Mache den Text noch flüssiger
+```
 
 **Ergebnis:**
 
@@ -59,10 +63,12 @@ Weiterführung vom vorherigen Beispiel:
 
 **Prompt:**
 
-> Schreibe eine Zusammenfassung für den folgenden Artikel, aber bitte nur einen Satz. Nutze ausschließlich Informationen aus dem Artikel. Die Zusammenfassung sollte nicht mit "Der Artikel" anfangen.
-> 
-> Artikel:
-> Das Universum, in dem wir leben, ist so unermesslich groß, dass wir nur einen winzigen Bruchteil davon erkunden können. Es beherbergt vermutlich über 100 Milliarden Galaxien, die jeweils aus Milliarden von Sternen und Planeten bestehen. Außerdem ist es sehr alt, rund 13,8 Milliarden Jahre. Seinen Ursprung hat es in einem extrem heißen und dichten Zustand, den wir als Urknall bezeichnen. In unserem Universum gibt es viele Geheimnisse, wie zum Beispiel schwarze Löcher, dunkle Materie und dunkle Energie. Diese rätselhaften Phänomene haben einen Einfluss auf die Struktur und die Entwicklung des Universums, aber ihre Natur und ihre Wirkungsweise sind uns noch weitgehend ein Rätsel. Unser Universum ist auch voller Schönheit und Wunder, wie die bunten Nebel, die aus Gas und Staub geformt sind, die strahlenden Sterne, die aus Wasserstoff und Helium bestehen, und die faszinierenden Planeten, die aus verschiedenen Elementen und Verbindungen zusammengesetzt sind. Schließlich bietet uns unser Universum viele Fragen und Möglichkeiten, wie die Suche nach außerirdischem Leben, die Erforschung anderer Welten und das Verständnis unserer eigenen Herkunft und Bestimmung.
+```
+Schreibe eine Zusammenfassung für den folgenden Artikel, aber bitte nur einen Satz. Nutze ausschließlich Informationen aus dem Artikel. Die Zusammenfassung sollte nicht mit "Der Artikel" anfangen.
+
+Artikel:
+Das Universum, in dem wir leben, ist so unermesslich groß, dass wir nur einen winzigen Bruchteil davon erkunden können. Es beherbergt vermutlich über 100 Milliarden Galaxien, die jeweils aus Milliarden von Sternen und Planeten bestehen. Außerdem ist es sehr alt, rund 13,8 Milliarden Jahre. Seinen Ursprung hat es in einem extrem heißen und dichten Zustand, den wir als Urknall bezeichnen. In unserem Universum gibt es viele Geheimnisse, wie zum Beispiel schwarze Löcher, dunkle Materie und dunkle Energie. Diese rätselhaften Phänomene haben einen Einfluss auf die Struktur und die Entwicklung des Universums, aber ihre Natur und ihre Wirkungsweise sind uns noch weitgehend ein Rätsel. Unser Universum ist auch voller Schönheit und Wunder, wie die bunten Nebel, die aus Gas und Staub geformt sind, die strahlenden Sterne, die aus Wasserstoff und Helium bestehen, und die faszinierenden Planeten, die aus verschiedenen Elementen und Verbindungen zusammengesetzt sind. Schließlich bietet uns unser Universum viele Fragen und Möglichkeiten, wie die Suche nach außerirdischem Leben, die Erforschung anderer Welten und das Verständnis unserer eigenen Herkunft und Bestimmung.
+```
 
 **Ergebnis:**
 
@@ -79,20 +85,22 @@ Weiterführung vom vorherigen Beispiel:
 
 **Prompt:**
 
-> Schreibe mir bitte 5 Tweets zu folgendem Artikel. Schreibe in einem ähnlichen Stil wie die Beispiele. Antworte als Liste mit 1., 2., 3., usw.
-> 
-> Beispiele:
-> * That's a wrap on day 1 of #MSIgnite 🎉
-> * creating passwords shouldn't feel like rocket science 🚀 luckily, there's Password Generator
-> * A cozy WFH set up courtesy of Bing Image Creator. 🍂
-> 
-> Artikel:
-> Das Universum, in dem wir leben, ist so unermesslich groß, dass wir nur einen winzigen Bruchteil davon erkunden können. Es beherbergt vermutlich über 100 Milliarden Galaxien, die jeweils aus Milliarden von Sternen und Planeten bestehen. Außerdem ist es sehr alt, rund 13,8 Milliarden Jahre. Seinen Ursprung hat es in einem extrem heißen und dichten Zustand, den wir als Urknall bezeichnen. In unserem Universum gibt es viele Geheimnisse, wie zum Beispiel schwarze Löcher, dunkle Materie und dunkle Energie. Diese rätselhaften Phänomene haben einen Einfluss auf die Struktur und die Entwicklung des Universums, aber ihre Natur und ihre Wirkungsweise sind uns noch weitgehend ein Rätsel. Unser Universum ist auch voller Schönheit und Wunder, wie die bunten Nebel, die aus Gas und Staub geformt sind, die strahlenden Sterne, die aus Wasserstoff und Helium bestehen, und die faszinierenden Planeten, die aus verschiedenen Elementen und Verbindungen zusammengesetzt sind. Schließlich bietet uns unser Universum viele Fragen und Möglichkeiten, wie die Suche nach außerirdischem Leben, die Erforschung anderer Welten und das Verständnis unserer eigenen Herkunft und Bestimmung.
+```
+Schreibe mir bitte 5 Tweets zu folgendem Artikel. Schreibe in einem ähnlichen Stil wie die Beispiele. Antworte als Liste mit 1., 2., 3., usw.
+
+Beispiele:
+* That's a wrap on day 1 of #MSIgnite 🎉
+* creating passwords shouldn't feel like rocket science 🚀 luckily, there's Password Generator
+* A cozy WFH set up courtesy of Bing Image Creator. 🍂
+ 
+Artikel:
+Das Universum, in dem wir leben, ist so unermesslich groß, dass wir nur einen winzigen Bruchteil davon erkunden können. Es beherbergt vermutlich über 100 Milliarden Galaxien, die jeweils aus Milliarden von Sternen und Planeten bestehen. Außerdem ist es sehr alt, rund 13,8 Milliarden Jahre. Seinen Ursprung hat es in einem extrem heißen und dichten Zustand, den wir als Urknall bezeichnen. In unserem Universum gibt es viele Geheimnisse, wie zum Beispiel schwarze Löcher, dunkle Materie und dunkle Energie. Diese rätselhaften Phänomene haben einen Einfluss auf die Struktur und die Entwicklung des Universums, aber ihre Natur und ihre Wirkungsweise sind uns noch weitgehend ein Rätsel. Unser Universum ist auch voller Schönheit und Wunder, wie die bunten Nebel, die aus Gas und Staub geformt sind, die strahlenden Sterne, die aus Wasserstoff und Helium bestehen, und die faszinierenden Planeten, die aus verschiedenen Elementen und Verbindungen zusammengesetzt sind. Schließlich bietet uns unser Universum viele Fragen und Möglichkeiten, wie die Suche nach außerirdischem Leben, die Erforschung anderer Welten und das Verständnis unserer eigenen Herkunft und Bestimmung.
+```
 
 **Ergebnis:**
 
 > Hier sind fünf Tweets, die ich zu dem Artikel geschrieben habe. Ich habe versucht, einen ähnlichen Stil wie die Beispiele zu verwenden. Ich hoffe, sie gefallen dir. 😊
-
+> 
 > 1. Unser Universum ist voller Geheimnisse und Wunder. Erfahre mehr über schwarze Löcher, dunkle Materie und dunkle Energie in diesem spannenden Artikel. #BingWissen
 > 2. Wie alt ist unser Universum? Woher kommt es? Was gibt es noch zu entdecken? Finde es heraus in diesem faszinierenden Artikel, der dir die Geschichte und die Zukunft unseres Universums erklärt. #BingFakten
 > 3. Hast du dich jemals gefragt, wie unser Universum aussieht? Schau dir diese atemberaubenden Bilder von Galaxien, Sternen und Planeten an, die Bing Image Creator für dich erstellt hat. #BingBilder
@@ -146,6 +154,7 @@ Die Ausgabe kann oft relativ einfach formatiert werden. So lassen sich zum Beisp
 
 **Prompt:**
 
+```
 Schreibe eine Zusammenfassung für den folgenden Artikel. Antworte wiefolgt:
 
 1. Mit einer Tabelle (Spalten: Länge, Zusammenfassung) und schreibe eine Zusammenfassung der Länge 1, 2, und 3 Sätzen
@@ -153,6 +162,7 @@ Schreibe eine Zusammenfassung für den folgenden Artikel. Antworte wiefolgt:
 
 Artikel:
 Das Universum, in dem wir leben, ist so unermesslich groß, dass wir nur einen winzigen Bruchteil davon erkunden können. Es beherbergt vermutlich über 100 Milliarden Galaxien, die jeweils aus Milliarden von Sternen und Planeten bestehen. Außerdem ist es sehr alt, rund 13,8 Milliarden Jahre. Seinen Ursprung hat es in einem extrem heißen und dichten Zustand, den wir als Urknall bezeichnen. In unserem Universum gibt es viele Geheimnisse, wie zum Beispiel schwarze Löcher, dunkle Materie und dunkle Energie. Diese rätselhaften Phänomene haben einen Einfluss auf die Struktur und die Entwicklung des Universums, aber ihre Natur und ihre Wirkungsweise sind uns noch weitgehend ein Rätsel. Unser Universum ist auch voller Schönheit und Wunder, wie die bunten Nebel, die aus Gas und Staub geformt sind, die strahlenden Sterne, die aus Wasserstoff und Helium bestehen, und die faszinierenden Planeten, die aus verschiedenen Elementen und Verbindungen zusammengesetzt sind. Schließlich bietet uns unser Universum viele Fragen und Möglichkeiten, wie die Suche nach außerirdischem Leben, die Erforschung anderer Welten und das Verständnis unserer eigenen Herkunft und Bestimmung.
+```
 
 **Ergebnis:**
 
@@ -179,9 +189,11 @@ Das Universum, in dem wir leben, ist so unermesslich groß, dass wir nur einen w
 
 **Prompt:**
 
-> Übersetze folgenden Text in Englisch, Spanish und Niederländisch. Antworte mit * Sprache: Übersetzung
-> Text:
-> Das Universum, in dem wir leben, ist so unermesslich groß, dass wir nur einen winzigen Bruchteil davon erkunden können. Es beherbergt vermutlich über 100 Milliarden Galaxien, die jeweils aus Milliarden von Sternen und Planeten bestehen. Außerdem ist es sehr alt, rund 13,8 Milliarden Jahre. Seinen Ursprung hat es in einem extrem heißen und dichten Zustand, den wir als Urknall bezeichnen.
+```
+Übersetze folgenden Text in Englisch, Spanish und Niederländisch. Antworte mit * Sprache: Übersetzung
+Text:
+Das Universum, in dem wir leben, ist so unermesslich groß, dass wir nur einen winzigen Bruchteil davon erkunden können. Es beherbergt vermutlich über 100 Milliarden Galaxien, die jeweils aus Milliarden von Sternen und Planeten bestehen. Außerdem ist es sehr alt, rund 13,8 Milliarden Jahre. Seinen Ursprung hat es in einem extrem heißen und dichten Zustand, den wir als Urknall bezeichnen.
+```
 
 **Ergebnis:**
 
